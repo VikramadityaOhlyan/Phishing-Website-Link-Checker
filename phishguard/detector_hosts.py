@@ -1,0 +1,4 @@
+# Multi-tenant hosts: anyone can create a subdomain, so they are never auto-trusted.
+FREE_HOSTS = {"weebly.com", "000webhostapp.com", "web.app", "firebaseapp.com", "herokuapp.com", "blogspot.com",
+              "wixsite.com", "github.io", "netlify.app", "pages.dev", "workers.dev", "glitch.me", "godaddysites.com",
+              "myshopify.com", "webflow.io", "square.site", "vercel.app", "onrender.com", "r2.dev", "framer.website", "wordpress.com", "tumblr.com", "azurewebsites.net", "cloudfront.net", "appspot.com", "amazonaws.com", "sharepoint.com", "yolasite.com", "jimdofree.com", "rf.gd", "infinityfreeapp.com", "epizy.com", "weeblysite.com", "wixsite.com", "carrd.co", "notion.site", "gitbook.io", "typeform.com", "forms.gle", "page.link", "ngrok.io", "trycloudflare.com", "duckdns.org", "no-ip.org", "ddns.net"}
